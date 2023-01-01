@@ -1,9 +1,13 @@
-
 .headerUpStyle{
-    margin: 0px 5px 0px 5px;
     background-color: black;
-    display: flex;
     color: white;
+    display: flex;
     justify-content: center;
     align-items: center;
+    height: 50px;
+    font-size: 20px;
+}
+
+.headerDiv{
+    width: 100%;
 }

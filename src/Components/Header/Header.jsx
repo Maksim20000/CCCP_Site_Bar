@@ -1,6 +1,6 @@
 import css from './Header.module.css'
-import {HeaderUp} from "./HeaderUnder/HeaderUp";
-import {HeaderUnder} from "./HeaderUp/HeaderUnder";
+import {HeaderUp} from "./HeaderUp/HeaderUp";
+import {HeaderUnder} from "./HeaderUnder/HeaderUnder";
 
 export function Header() {
     return (
